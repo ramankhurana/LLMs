@@ -1,5 +1,5 @@
 # LLMs
-All information about LLMs available in open and closed source
+All information(*) about LLMs available in open and closed source. 
 
 | Model Series | Model Version | Number of Parameters | Open Source & License Terms | Features | Comment | Date of Release | Context Length | Pricing |
 |--------------|---------------|----------------------|-----------------------------|----------|---------|-----------------|----------------|---------|
@@ -32,5 +32,6 @@ All information about LLMs available in open and closed source
 | **DeepSeek** | DeepSeek-V3   | Not publicly disclosed | Proprietary                 | Advanced LLM with enhanced capabilities |         | August 2024      | Not publicly disclosed | Subscription-based |
 | **Orca**     | Orca          | Not publicly disclosed | Proprietary                 | Progressive learning model with complex reasoning |         | September 2024   | Not publicly disclosed | Subscription-based |
 | **GLaM**     | GLaM          | Not publicly disclosed | Proprietary                 | Efficient scaling model with mixture-of-experts architecture |         |
-::contentReference[oaicite:0]{index=0}
  
+
+(*)(Information to be double checked and verified)
