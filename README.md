@@ -1,5 +1,5 @@
 # LLMs
-All information(*) about LLMs available in open and closed source. 
+Basic information(*) about LLMs available as open and closed source. 
 
 | Model Series | Model Version | Number of Parameters | Open Source & License Terms | Features | Comment | Date of Release | Context Length | Pricing |
 |--------------|---------------|----------------------|-----------------------------|----------|---------|-----------------|----------------|---------|
@@ -35,3 +35,4 @@ All information(*) about LLMs available in open and closed source.
  
 
 (*)(Information to be double checked and verified)
+
